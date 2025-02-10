@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe.sharepoint.com/:f:/r/sites/varunedsdemo/Shared%20Documents/varunedsflow/eds-commerce-storefront?csf=1&web=1&e=KbkKe0
 
 folders:
   /products/: /products/default
